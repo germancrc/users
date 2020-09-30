@@ -1,4 +1,4 @@
-{ recibidos: [
+{ "recibidos": [
   {
     "de": "Invi Central",
     "mensaje": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque molestie turpis eros, sit amet vehicula nunc sollicitudin a. Aenean venenatis condimentum est, eget tempus dui consectetur quis. Nulla varius fringilla diam, id vestibulum nulla rutrum in. Nam blandit, magna et imperdiet vulputate, ligula lacus molestie lorem, sed vehicula tellus sem vel lectus. Morbi turpis risus, hendrerit at ante nec, rutrum gravida sapien. Mauris fermentum tincidunt ullamcorper. Vivamus ut lorem elit. Donec laoreet, purus at tempor auctor, purus ligula dictum lacus, sed accumsan arcu nulla sit amet libero.",
